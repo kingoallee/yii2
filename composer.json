@@ -1,0 +1,7 @@
+{
+    "name": "net263/vendor",
+    "description": "yii2 vendor",
+    "type": "library",
+    "minimum-stability": "dev",
+    "require": {}
+}
